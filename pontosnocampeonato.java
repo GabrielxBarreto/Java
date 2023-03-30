@@ -2,7 +2,7 @@
  import java.util.Scanner;
  
 
- public class futebol {
+ public class pontosnocampeonato {
  
      public static void main(String[] args) {
          
